@@ -1,7 +1,7 @@
 ## 👋 Hey there!
 
 My name is Micaiah Martin, I am a DevOps enthusiast in Bozeman, MT. I love using tools focusing around automation and tooling to reduce toil or things that make
-an engineer's life overall easier. I am especailly interesting in Python, Kubernetes, Terraform, and CI/CD tooling. 
+an engineer's life overall easier. I am especailly interesting in Python, Kubernetes, Terraform, and CI/CD tooling. I am currently a DevOps Engineer at Bitwarden.
 
 ---
 
