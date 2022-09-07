@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-My name is Micaiah Martin, I am a DevOps enthusiast and I love using tools focused around automation and tooling to reduce toil or things that make
+I am a DevOps enthusiast and I love using tools focused around automation and tooling to reduce toil or things that make
 an engineer's life overall easier. I am especailly interested in Python, Kubernetes, Terraform, and CI/CD tooling. 
 
 ---
@@ -26,5 +26,3 @@ Interests
 - Coffee
 - Aquariums
 
-Contacts
-- LinkedIn: https://linkedin.com/in/micaiahmartin
