@@ -6,23 +6,16 @@ an engineer's life overall easier. I am especailly interested in Python, Kuberne
 ---
 Here are some items I am using.
 
+- [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [Argo CD](https://github.com/argoproj/argo-cd)
 - [Helm](https://github.com/helm/helm)
-- [Branch Deploy](https://github.com/GrantBirki/branch-deploy)
-- [Garden](https://github.com/garden-io/garden)
-- [Act](https://github.com/nektos/act)
-
----
-
-✨ GitHub Stats ✨
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimartin12&count_private=true&show_icons=true&theme=merko)
+- [Dagger.io](https://dagger.io/)
 
 ---
 
 Interests
-- Containers
+- Platform Engineering
 - Automation
 - Open Source Software
 - Coffee
 - Aquariums
-
