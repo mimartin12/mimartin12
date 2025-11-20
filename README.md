@@ -22,4 +22,4 @@ Interests
 - Burritos
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=mimartin12&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mimartin12&theme=midnight-purple&exclude_days=Sun&card_width=800)](https://git.io/streak-stats)
