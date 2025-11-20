@@ -20,3 +20,6 @@ Interests
 - Coffee
 - Aquariums
 - Burritos
+
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=mimartin12&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
