@@ -9,17 +9,18 @@ Here are some items I am using.
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
 - [Argo CD](https://github.com/argoproj/argo-cd)
 - [Helm](https://github.com/helm/helm)
-- [Dagger.io](https://dagger.io/)
+- [Cilium](https://github.com/cilium/cilium)
 
 ---
 
 Interests
 - Platform Engineering
 - Automation
-- Open Source Software
+- Open Source Software (I work at Bitwarden!)
 - Coffee
 - Aquariums
 - Burritos
+- [Homelabs!](https://github.com/mimartin12/kubernetes-lab)
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=mimartin12&theme=midnight-purple&exclude_days=Sun&card_width=800)](https://git.io/streak-stats)
