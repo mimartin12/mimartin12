@@ -23,4 +23,4 @@ Interests
 - [Homelabs!](https://github.com/mimartin12/kubernetes-lab)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=mimartin12&theme=midnight-purple&exclude_days=Sun&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mimartin12&theme=midnight-purple&exclude_days=Sun,Sat&card_width=800)](https://git.io/streak-stats)
